@@ -1,1 +1,10 @@
 /build
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+*.iml
+facebook/build
+*.log
+/.navigation
